@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/globalhome</content-type>
+	<display-template>/templates/web/GlobalHome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<file-name>index.xml</file-name>
+	<internal-name>Global Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2022-03-02T17:56:14.986Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-02T17:56:14.986Z</lastModifiedDate_dt>
+	<navLabel>Global Home</navLabel>
+	<placeInNav>false</placeInNav>
+</page>

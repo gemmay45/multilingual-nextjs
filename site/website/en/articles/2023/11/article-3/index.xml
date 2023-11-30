@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/articlepage</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fb1e207c</objectGroupId>
+	<objectId>fb1e207c-fdfa-4b39-b7f3-7df385c2678d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>article-3</folder-name>
+	<internal-name>article 3</internal-name>
+	<navLabel>2023 Article 3</navLabel>
+	<title_s>2023 Article 3</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<teaserImage_s>/static-assets/photo-1698546690393-45482eb06942.jpg</teaserImage_s>
+	<items_o item-list="true">	<item inline="true">	<key>0c668a2f-0835-104e-42fa-00a60d47fa3d</key>
+	<value>content</value>
+	<disableFlattening>false</disableFlattening>
+<component id="0c668a2f-0835-104e-42fa-00a60d47fa3d">
+	<content-type>/component/articlecontent</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0c66</objectGroupId>
+	<objectId>0c668a2f-0835-104e-42fa-00a60d47fa3d</objectId>
+	<file-name>0c668a2f-0835-104e-42fa-00a60d47fa3d.xml</file-name>
+	<folder-name/>
+	<internal-name>content</internal-name>
+	<title_s>TEST TITLE</title_s>
+	<image_s>/static-assets/photo-1698546690393-45482eb06942.jpg</image_s>
+	<layout_s>float-right</layout_s>
+	<content_html>&lt;div&gt;
+&lt;div&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dignissimos ipsam aspernatur totam assumenda ipsa, voluptatem minima quisquam cum. Dolore ea perferendis provident id deserunt perspiciatis, expedita iusto ad facilis.&lt;/div&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2023-11-30T03:41:31.148Z</createdDate>
+	<createdDate_dt>2023-11-30T03:41:31.148Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T03:42:01.348Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T03:42:01.348Z</lastModifiedDate_dt>
+</component>
+	</item></items_o>
+	<date_dt>2023-11-18T11:00:00.000Z</date_dt>
+	<createdDate>2023-11-30T02:43:28.289Z</createdDate>
+	<createdDate_dt>2023-11-30T02:43:28.289Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T03:47:17.552Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T03:47:17.552Z</lastModifiedDate_dt>
+	<date_dt_tz>Pacific/Auckland</date_dt_tz>
+</page>

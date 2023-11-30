@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <content-type>/page/home</content-type>
+  <display-template>/templates/web/pages/home.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <file-name>index.xml</file-name>
+  <internal-name>Home (ES)</internal-name>
+  <orderDefault_f>0.0</orderDefault_f>
+  <objectGroupId>dd1e473a</objectGroupId>
+  <objectId>dd1e473a-6624-4783-89c2-ac823df52a6d</objectId>
+  <folder-name>es</folder-name>
+  <createdDate>2022-03-02T17:51:28.216Z</createdDate>
+  <createdDate_dt>2022-03-02T17:51:28.216Z</createdDate_dt>
+  <lastModifiedDate>2023-11-29T09:22:22.563Z</lastModifiedDate>
+  <lastModifiedDate_dt>2023-11-29T09:47:17.605Z</lastModifiedDate_dt>
+  <title_t>Editorial</title_t>
+  <disabled>false</disabled>
+  <header_o item-list="true"/>
+  <localeCode_s>es</localeCode_s>
+  <sourceLocaleCode_s>es</sourceLocaleCode_s>
+  <localeSourceId_s>57530293-599b-8c94-4d1b-7c3fa2dd4aae</localeSourceId_s>
+  <content_o item-list="true">
+    <item inline="true">
+      <key>46728d33-a01e-cb23-d13f-7224865eb5f4</key>
+      <value>es home content</value>
+      <component id="46728d33-a01e-cb23-d13f-7224865eb5f4">
+        <content-type>/component/rte</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <objectGroupId>4672</objectGroupId>
+        <objectId>46728d33-a01e-cb23-d13f-7224865eb5f4</objectId>
+        <file-name>46728d33-a01e-cb23-d13f-7224865eb5f4.xml</file-name>
+        <folder-name/>
+        <internal-name>es home content</internal-name>
+        <content_html><![CDATA[<p>ES HOME</p>
+<p>&nbsp;</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus mollitia laboriosam modi, quam aliquid quibusdam error cupiditate nihil repellat eaque.</p>
+<p>Quidem vel distinctio officiis illum ab. Cumque consectetur, reprehenderit iusto quam neque voluptate exercitationem accusamus! Iure odio molestias cumque consectetur?</p>
+<p>At ab eos, ullam inventore quam voluptates corrupti, sint suscipit omnis nemo nihil modi velit! Vitae aliquam asperiores adipisci ipsa?</p>
+<ul>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto deleniti placeat illum?</li>
+<li>Quos, facilis eligendi nam vel alias odit dignissimos exercitationem non reprehenderit praesentium!</li>
+<li>Quo excepturi eveniet beatae dolore perspiciatis aliquid officiis aliquam neque voluptatem numquam.</li>
+<li>Dolor assumenda error reiciendis eos iure debitis corporis doloremque ipsam placeat repudiandae!</li>
+<li>Assumenda ullam illum hic dolor totam sed facilis, eius amet tenetur iure!</li>
+<li>Tempora quidem atque dicta minima officia quasi nostrum beatae incidunt, harum dolorum.</li>
+<li>Natus omnis eos aut quas odit. Reprehenderit voluptate omnis ullam beatae debitis.</li>
+<li>Iusto officia, tempore dignissimos earum distinctio accusantium maxime perferendis eaque ad. Minus.</li>
+</ul>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, necessitatibus delectus, accusamus dignissimos illum excepturi incidunt sunt quasi iste animi vel accusantium culpa, velit libero voluptatibus in? Cumque, ipsum.</p>
+<p>Assumenda atque non vel mollitia amet explicabo saepe ab ipsa facilis reiciendis voluptates eligendi aliquam earum accusamus corporis minus, molestias delectus repudiandae. Sequi reiciendis mollitia dignissimos autem nobis delectus.</p>
+<p>Eveniet dolorem nemo soluta laboriosam adipisci aspernatur excepturi corporis temporibus? Eaque nulla corporis illum id! Quo cupiditate tempore veniam, quaerat corporis ex, soluta in modi at, nihil nesciunt consequuntur.</p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. A ab quas perferendis saepe provident ullam pariatur delectus quis molestiae rem.</li>
+<li>Nesciunt ratione, commodi unde perferendis deserunt, adipisci vero ducimus, quae vitae beatae qui sint. Nisi libero dolores ipsum fugit nostrum.</li>
+<li>Velit maiores ipsum vero neque perspiciatis, amet, eum unde nam ullam hic harum illum magni quos sunt eaque nisi at!</li>
+<li>Nemo, necessitatibus dignissimos. Enim necessitatibus harum ratione. Aliquid quo accusamus quisquam debitis facere dolore praesentium sequi eum? Placeat, quia dicta!</li>
+<li>Odio ipsam placeat debitis, obcaecati aliquam nisi rerum atque ratione aperiam. Quae laboriosam vero itaque perferendis distinctio. Numquam, molestiae sapiente!</li>
+</ul>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sed facere quis assumenda temporibus dolorem id. Sapiente quae quidem ut doloribus nobis corrupti, modi exercitationem. A numquam voluptatem explicabo est distinctio. Sit, cumque.</p>
+<p>Alias, ea! Eius maiores error amet. Dignissimos repudiandae fugit quisquam, quos rem hic deserunt ipsum earum nemo esse reprehenderit repellendus, nostrum aut vel odio ipsam iste eaque maxime ullam sunt ea eos at.</p>
+<p>Quidem illo ullam assumenda blanditiis obcaecati odit nam. Voluptate expedita consectetur blanditiis! Vitae, ea in! Doloribus similique distinctio, ex sequi dolore sunt. Animi esse culpa eius earum enim molestias tenetur veniam tempore quas.</p>]]></content_html>
+        <createdDate>2023-11-29T09:22:31.742Z</createdDate>
+        <createdDate_dt>2023-11-29T09:22:31.742Z</createdDate_dt>
+        <lastModifiedDate>2023-11-29T09:22:31.742Z</lastModifiedDate>
+        <lastModifiedDate_dt>2023-11-29T09:23:29.866Z</lastModifiedDate_dt>
+      </component>
+    </item>
+  </content_o>
+  <title_s><![CDATA[ES HOME]]></title_s>
+</page>

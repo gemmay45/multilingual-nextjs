@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/genericpage</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>185e</objectGroupId>
+	<objectId>185e1b7a-c1f1-5c55-9fc1-ab962ffe4080</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>level-2-generic-page</folder-name>
+	<internal-name>level-2-generic-page</internal-name>
+	<navLabel>Level 2 Generic Page</navLabel>
+	<metaTitle_s>Level 2 Generic Page meta title</metaTitle_s>
+	<title_s>Level 2 Generic Page Title</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<metaDescription_t>Level 2 Generic Page meta description</metaDescription_t>
+	<content_o item-list="true">	<item inline="true">	<key>9d3e404c-7df3-7173-4f6c-7f7caa1ab545</key>
+	<value>hero</value>
+	<disableFlattening>false</disableFlattening>
+<component id="9d3e404c-7df3-7173-4f6c-7f7caa1ab545">
+        <content-type>/component/hero</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <objectGroupId>9d3e</objectGroupId>
+        <objectId>9d3e404c-7df3-7173-4f6c-7f7caa1ab545</objectId>
+        <internal-name>hero</internal-name>
+        <title_s>Level 2 Generic Page Hero Title</title_s>
+        <file-name>9d3e404c-7df3-7173-4f6c-7f7caa1ab545.xml</file-name>
+        <folder-name/>
+        <background_s>/static-assets/255074.jpg</background_s>
+        <content_html/>
+        <createdDate>2023-11-29T02:37:07.925Z</createdDate>
+        <createdDate_dt>2023-11-29T02:37:07.925Z</createdDate_dt>
+        <lastModifiedDate>2023-11-29T02:37:07.925Z</lastModifiedDate>
+        <lastModifiedDate_dt>2023-11-29T02:37:07.925Z</lastModifiedDate_dt>
+      </component>
+	</item>	<item inline="true">	<key>38156b0e-d2d3-46cb-b22e-c56d49c41962</key>
+	<value>New Rich Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="38156b0e-d2d3-46cb-b22e-c56d49c41962">
+        <content-type>/component/rte</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Rich Text</internal-name>
+        <file-name>38156b0e-d2d3-46cb-b22e-c56d49c41962.xml</file-name>
+        <createdDate_dt>2023-11-29T04:42:46.594Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-29T04:42:46.594Z</lastModifiedDate_dt>
+        <objectId>38156b0e-d2d3-46cb-b22e-c56d49c41962</objectId>
+        <content_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus mollitia laboriosam modi, quam aliquid quibusdam error cupiditate nihil repellat eaque.&lt;/p&gt;
+&lt;p&gt;Quidem vel distinctio officiis illum ab. Cumque consectetur, reprehenderit iusto quam neque voluptate exercitationem accusamus! Iure odio molestias cumque consectetur?&lt;/p&gt;
+&lt;p&gt;At ab eos, ullam inventore quam voluptates corrupti, sint suscipit omnis nemo nihil modi velit! Vitae aliquam asperiores adipisci ipsa?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto deleniti placeat illum?&lt;/li&gt;
+&lt;li&gt;Quos, facilis eligendi nam vel alias odit dignissimos exercitationem non reprehenderit praesentium!&lt;/li&gt;
+&lt;li&gt;Quo excepturi eveniet beatae dolore perspiciatis aliquid officiis aliquam neque voluptatem numquam.&lt;/li&gt;
+&lt;li&gt;Dolor assumenda error reiciendis eos iure debitis corporis doloremque ipsam placeat repudiandae!&lt;/li&gt;
+&lt;li&gt;Assumenda ullam illum hic dolor totam sed facilis, eius amet tenetur iure!&lt;/li&gt;
+&lt;li&gt;Tempora quidem atque dicta minima officia quasi nostrum beatae incidunt, harum dolorum.&lt;/li&gt;
+&lt;li&gt;Natus omnis eos aut quas odit. Reprehenderit voluptate omnis ullam beatae debitis.&lt;/li&gt;
+&lt;li&gt;Iusto officia, tempore dignissimos earum distinctio accusantium maxime perferendis eaque ad. Minus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, necessitatibus delectus, accusamus dignissimos illum excepturi incidunt sunt quasi iste animi vel accusantium culpa, velit libero voluptatibus in? Cumque, ipsum.&lt;/p&gt;
+&lt;p&gt;Assumenda atque non vel mollitia amet explicabo saepe ab ipsa facilis reiciendis voluptates eligendi aliquam earum accusamus corporis minus, molestias delectus repudiandae. Sequi reiciendis mollitia dignissimos autem nobis delectus.&lt;/p&gt;
+&lt;p&gt;Eveniet dolorem nemo soluta laboriosam adipisci aspernatur excepturi corporis temporibus? Eaque nulla corporis illum id! Quo cupiditate tempore veniam, quaerat corporis ex, soluta in modi at, nihil nesciunt consequuntur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. A ab quas perferendis saepe provident ullam pariatur delectus quis molestiae rem.&lt;/li&gt;
+&lt;li&gt;Nesciunt ratione, commodi unde perferendis deserunt, adipisci vero ducimus, quae vitae beatae qui sint. Nisi libero dolores ipsum fugit nostrum.&lt;/li&gt;
+&lt;li&gt;Velit maiores ipsum vero neque perspiciatis, amet, eum unde nam ullam hic harum illum magni quos sunt eaque nisi at!&lt;/li&gt;
+&lt;li&gt;Nemo, necessitatibus dignissimos. Enim necessitatibus harum ratione. Aliquid quo accusamus quisquam debitis facere dolore praesentium sequi eum? Placeat, quia dicta!&lt;/li&gt;
+&lt;li&gt;Odio ipsam placeat debitis, obcaecati aliquam nisi rerum atque ratione aperiam. Quae laboriosam vero itaque perferendis distinctio. Numquam, molestiae sapiente!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sed facere quis assumenda temporibus dolorem id. Sapiente quae quidem ut doloribus nobis corrupti, modi exercitationem. A numquam voluptatem explicabo est distinctio. Sit, cumque.&lt;/p&gt;
+&lt;p&gt;Alias, ea! Eius maiores error amet. Dignissimos repudiandae fugit quisquam, quos rem hic deserunt ipsum earum nemo esse reprehenderit repellendus, nostrum aut vel odio ipsam iste eaque maxime ullam sunt ea eos at.&lt;/p&gt;
+&lt;p&gt;Quidem illo ullam assumenda blanditiis obcaecati odit nam. Voluptate expedita consectetur blanditiis! Vitae, ea in! Doloribus similique distinctio, ex sequi dolore sunt. Animi esse culpa eius earum enim molestias tenetur veniam tempore quas.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-29T04:42:46.594Z</createdDate>
+        <lastModifiedDate>2023-11-29T04:42:46.594Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>cc30d4bb-f48d-476f-ae58-0c9e2105eb70</key>
+	<value>New InfoGraphic</value>
+<component id="cc30d4bb-f48d-476f-ae58-0c9e2105eb70">
+	<content-type>/component/infographic</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<internal-name>New InfoGraphic</internal-name>
+	<file-name>cc30d4bb-f48d-476f-ae58-0c9e2105eb70.xml</file-name>
+	<createdDate_dt>2023-11-29T05:11:32.274Z</createdDate_dt>
+	<lastModifiedDate_dt>2023-11-29T05:11:32.274Z</lastModifiedDate_dt>
+	<objectId>cc30d4bb-f48d-476f-ae58-0c9e2105eb70</objectId>
+	<content_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, necessitatibus delectus, accusamus dignissimos illum excepturi incidunt sunt quasi iste animi vel accusantium culpa, velit libero voluptatibus in? Cumque, ipsum.&lt;/p&gt;
+&lt;p&gt;Assumenda atque non vel mollitia amet explicabo saepe ab ipsa facilis reiciendis voluptates eligendi aliquam earum accusamus corporis minus, molestias delectus repudiandae. Sequi reiciendis mollitia dignissimos autem nobis delectus.&lt;/p&gt;</content_html>
+	<backdropImage_s>/static-assets/Mask group.svg</backdropImage_s>
+	<infos_o item-list="true">	<item>	<image_s>/static-assets/businesses.svg</image_s>
+	<figurePrefix_s>$</figurePrefix_s>
+	<figureStart_s>0</figureStart_s>
+	<figureStop_s>852</figureStop_s>
+	<figureSuffix_s>+</figureSuffix_s>
+	<title_s>Business</title_s>
+	</item>	<item>	<image_s>/static-assets/events.svg</image_s>
+	<figurePrefix_s>$</figurePrefix_s>
+	<figureStart_s>0</figureStart_s>
+	<figureStop_s>391</figureStop_s>
+	<figureSuffix_s>+</figureSuffix_s>
+	<title_s>Events held</title_s>
+	</item>	<item>	<image_s>/static-assets/fnb.svg</image_s>
+	<figurePrefix_s>$</figurePrefix_s>
+	<figureStart_s>0</figureStart_s>
+	<figureStop_s>988</figureStop_s>
+	<figureSuffix_s>+</figureSuffix_s>
+	<title_s>Restaurants</title_s>
+	</item>	<item>	<image_s>/static-assets/retailers.svg</image_s>
+	<figurePrefix_s no-default="true"/>
+	<figureStart_s>0</figureStart_s>
+	<figureStop_s>388</figureStop_s>
+	<figureSuffix_s>+</figureSuffix_s>
+	<title_s>Retail Shops</title_s>
+	</item></infos_o>
+	<duration_i>3</duration_i>
+	<animateOnce_b>true</animateOnce_b>
+	<animteDelay_i>0</animteDelay_i>
+	<folder-name/>
+	<createdDate>2023-11-29T05:11:32.274Z</createdDate>
+	<lastModifiedDate>2023-11-29T05:11:32.274Z</lastModifiedDate>
+</component>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>477f2f32-6cd0-4369-82b5-4d88daa7da00</key>
+	<value>New Carousel</value>
+	<disableFlattening>false</disableFlattening>
+<component id="477f2f32-6cd0-4369-82b5-4d88daa7da00">
+        <content-type>/component/carousel</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Carousel</internal-name>
+        <file-name>477f2f32-6cd0-4369-82b5-4d88daa7da00.xml</file-name>
+        <createdDate_dt>2023-11-29T04:40:27.379Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-29T04:41:56.319Z</lastModifiedDate_dt>
+        <objectId>477f2f32-6cd0-4369-82b5-4d88daa7da00</objectId>
+        <carouselTitle_s>Carousel Title</carouselTitle_s>
+        <slides_o item-list="true">
+          <item inline="true">
+            <key>b03c5478-64ec-feba-3a73-a9b1f6bf7cf3</key>
+            <value>Slide 1</value>
+            <component id="b03c5478-64ec-feba-3a73-a9b1f6bf7cf3">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>b03c5478-64ec-feba-3a73-a9b1f6bf7cf3</objectId>
+              <file-name>b03c5478-64ec-feba-3a73-a9b1f6bf7cf3.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 1</slideTitle_s>
+              <slideImage_s>/static-assets/sandy-millar-koAF_KlHOfI-unsplash.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:40:39.391Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:40:39.391Z</lastModifiedDate_dt>
+            </component>
+          </item>
+          <item inline="true">
+            <key>433592df-d8d8-4f42-8603-f80e6f9b3a0c</key>
+            <value>Slide 1</value>
+            <component id="433592df-d8d8-4f42-8603-f80e6f9b3a0c">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>433592df-d8d8-4f42-8603-f80e6f9b3a0c</objectId>
+              <file-name>433592df-d8d8-4f42-8603-f80e6f9b3a0c.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 2</slideTitle_s>
+              <slideImage_s>/static-assets/photo-1698546690393-45482eb06942.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:41:31.564Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:41:31.564Z</lastModifiedDate_dt>
+            </component>
+          </item>
+          <item inline="true">
+            <key>16479503-30a0-4ab4-97f3-f3f8c91974a7</key>
+            <value>Slide 1</value>
+            <component id="16479503-30a0-4ab4-97f3-f3f8c91974a7">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>16479503-30a0-4ab4-97f3-f3f8c91974a7</objectId>
+              <file-name>16479503-30a0-4ab4-97f3-f3f8c91974a7.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 3</slideTitle_s>
+              <slideImage_s>/static-assets/photo-1648663057421-38dcdc635113.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:42:07.536Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:42:07.536Z</lastModifiedDate_dt>
+            </component>
+          </item>
+        </slides_o>
+        <folder-name/>
+        <createdDate>2023-11-29T04:40:27.379Z</createdDate>
+        <lastModifiedDate>2023-11-29T04:40:27.379Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>34b44cdc-39dd-53b1-d34a-a5ea5e3fadf5</key>
+	<value>rte</value>
+	<disableFlattening>false</disableFlattening>
+<component id="34b44cdc-39dd-53b1-d34a-a5ea5e3fadf5">
+        <content-type>/component/rte</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <objectGroupId>34b4</objectGroupId>
+        <objectId>34b44cdc-39dd-53b1-d34a-a5ea5e3fadf5</objectId>
+        <file-name>34b44cdc-39dd-53b1-d34a-a5ea5e3fadf5.xml</file-name>
+        <folder-name/>
+        <internal-name>rte</internal-name>
+        <content_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium alias dolorum quo dolore corporis accusamus aperiam quisquam animi in tenetur ducimus non dolores tempore, voluptates sunt fugiat ipsam officia mollitia?&lt;/p&gt;
+&lt;p&gt;Nesciunt tempora rerum ad illum delectus, ab perspiciatis assumenda non voluptate, beatae hic. Dicta quidem, alias nesciunt natus consectetur, dignissimos ullam, officia sit fugit exercitationem voluptatem. Exercitationem ad a commodi.&lt;/p&gt;</content_html>
+        <createdDate>2023-11-29T02:38:29.413Z</createdDate>
+        <createdDate_dt>2023-11-29T02:38:29.413Z</createdDate_dt>
+        <lastModifiedDate>2023-11-29T02:38:29.413Z</lastModifiedDate>
+        <lastModifiedDate_dt>2023-11-29T02:38:29.413Z</lastModifiedDate_dt>
+      </component>
+	</item>	<item inline="true">	<key>b5bbcc63-0c90-4f43-bee8-cde11a8e5068</key>
+	<value>New Carousel</value>
+	<disableFlattening>false</disableFlattening>
+<component id="b5bbcc63-0c90-4f43-bee8-cde11a8e5068">
+        <content-type>/component/carousel</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Carousel</internal-name>
+        <file-name>b5bbcc63-0c90-4f43-bee8-cde11a8e5068.xml</file-name>
+        <createdDate_dt>2023-11-29T04:40:27.379Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-29T04:41:56.319Z</lastModifiedDate_dt>
+        <objectId>b5bbcc63-0c90-4f43-bee8-cde11a8e5068</objectId>
+        <carouselTitle_s>Carousel Title</carouselTitle_s>
+        <slides_o item-list="true">
+          <item inline="true">
+            <key>62f935bd-49f7-4fed-9792-fc568d4b222b</key>
+            <value>Slide 1</value>
+            <component id="62f935bd-49f7-4fed-9792-fc568d4b222b">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>62f935bd-49f7-4fed-9792-fc568d4b222b</objectId>
+              <file-name>62f935bd-49f7-4fed-9792-fc568d4b222b.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 1</slideTitle_s>
+              <slideImage_s>/static-assets/sandy-millar-koAF_KlHOfI-unsplash.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:40:39.391Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:40:39.391Z</lastModifiedDate_dt>
+            </component>
+          </item>
+          <item inline="true">
+            <key>a03e07fc-e718-435a-b63c-741635e1de98</key>
+            <value>Slide 1</value>
+            <component id="a03e07fc-e718-435a-b63c-741635e1de98">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>a03e07fc-e718-435a-b63c-741635e1de98</objectId>
+              <file-name>a03e07fc-e718-435a-b63c-741635e1de98.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 2</slideTitle_s>
+              <slideImage_s>/static-assets/photo-1698546690393-45482eb06942.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:41:31.564Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:41:31.564Z</lastModifiedDate_dt>
+            </component>
+          </item>
+          <item inline="true">
+            <key>1f5f286f-ad03-4c5b-8e2b-feacf5306b7f</key>
+            <value>Slide 1</value>
+            <component id="1f5f286f-ad03-4c5b-8e2b-feacf5306b7f">
+              <content-type>/component/carouselslide</content-type>
+              <display-template/>
+              <no-template-required>true</no-template-required>
+              <merge-strategy>inherit-levels</merge-strategy>
+              <objectGroupId>b03c</objectGroupId>
+              <objectId>1f5f286f-ad03-4c5b-8e2b-feacf5306b7f</objectId>
+              <file-name>1f5f286f-ad03-4c5b-8e2b-feacf5306b7f.xml</file-name>
+              <folder-name/>
+              <internal-name>Slide 1</internal-name>
+              <slideTitle_s>Slide 3</slideTitle_s>
+              <slideImage_s>/static-assets/photo-1648663057421-38dcdc635113.jpg</slideImage_s>
+              <slideRichText_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta totam ullam alias, perferendis corrupti odit, obcaecati aliquam quod ducimus at praesentium officiis! Dolor eveniet expedita soluta illum. Accusamus, est provident.&lt;/p&gt;
+&lt;p&gt;Consequuntur, adipisci! Temporibus est commodi voluptatum cumque maiores ratione ipsum? Sed dignissimos iusto porro dolores voluptate aliquid minima corporis recusandae! Ex eius dolorem voluptatibus voluptate cum modi unde voluptates nam?&lt;/p&gt;</slideRichText_html>
+              <createdDate>2023-11-29T04:40:39.391Z</createdDate>
+              <createdDate_dt>2023-11-29T04:40:39.391Z</createdDate_dt>
+              <lastModifiedDate>2023-11-29T04:42:07.536Z</lastModifiedDate>
+              <lastModifiedDate_dt>2023-11-29T04:42:07.536Z</lastModifiedDate_dt>
+            </component>
+          </item>
+        </slides_o>
+        <folder-name/>
+        <createdDate>2023-11-29T04:40:27.379Z</createdDate>
+        <lastModifiedDate>2023-11-29T04:40:27.379Z</lastModifiedDate>
+      </component>
+	</item>	<item inline="true">	<key>7939182d-c93c-488f-966a-e7542cd0f4ad</key>
+	<value>New Rich Text</value>
+	<disableFlattening>false</disableFlattening>
+<component id="7939182d-c93c-488f-966a-e7542cd0f4ad">
+        <content-type>/component/rte</content-type>
+        <display-template/>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <internal-name>New Rich Text</internal-name>
+        <file-name>7939182d-c93c-488f-966a-e7542cd0f4ad.xml</file-name>
+        <createdDate_dt>2023-11-29T04:42:46.594Z</createdDate_dt>
+        <lastModifiedDate_dt>2023-11-29T04:42:46.594Z</lastModifiedDate_dt>
+        <objectId>7939182d-c93c-488f-966a-e7542cd0f4ad</objectId>
+        <content_html>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus mollitia laboriosam modi, quam aliquid quibusdam error cupiditate nihil repellat eaque.&lt;/p&gt;
+&lt;p&gt;Quidem vel distinctio officiis illum ab. Cumque consectetur, reprehenderit iusto quam neque voluptate exercitationem accusamus! Iure odio molestias cumque consectetur?&lt;/p&gt;
+&lt;p&gt;At ab eos, ullam inventore quam voluptates corrupti, sint suscipit omnis nemo nihil modi velit! Vitae aliquam asperiores adipisci ipsa?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto deleniti placeat illum?&lt;/li&gt;
+&lt;li&gt;Quos, facilis eligendi nam vel alias odit dignissimos exercitationem non reprehenderit praesentium!&lt;/li&gt;
+&lt;li&gt;Quo excepturi eveniet beatae dolore perspiciatis aliquid officiis aliquam neque voluptatem numquam.&lt;/li&gt;
+&lt;li&gt;Dolor assumenda error reiciendis eos iure debitis corporis doloremque ipsam placeat repudiandae!&lt;/li&gt;
+&lt;li&gt;Assumenda ullam illum hic dolor totam sed facilis, eius amet tenetur iure!&lt;/li&gt;
+&lt;li&gt;Tempora quidem atque dicta minima officia quasi nostrum beatae incidunt, harum dolorum.&lt;/li&gt;
+&lt;li&gt;Natus omnis eos aut quas odit. Reprehenderit voluptate omnis ullam beatae debitis.&lt;/li&gt;
+&lt;li&gt;Iusto officia, tempore dignissimos earum distinctio accusantium maxime perferendis eaque ad. Minus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, necessitatibus delectus, accusamus dignissimos illum excepturi incidunt sunt quasi iste animi vel accusantium culpa, velit libero voluptatibus in? Cumque, ipsum.&lt;/p&gt;
+&lt;p&gt;Assumenda atque non vel mollitia amet explicabo saepe ab ipsa facilis reiciendis voluptates eligendi aliquam earum accusamus corporis minus, molestias delectus repudiandae. Sequi reiciendis mollitia dignissimos autem nobis delectus.&lt;/p&gt;
+&lt;p&gt;Eveniet dolorem nemo soluta laboriosam adipisci aspernatur excepturi corporis temporibus? Eaque nulla corporis illum id! Quo cupiditate tempore veniam, quaerat corporis ex, soluta in modi at, nihil nesciunt consequuntur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. A ab quas perferendis saepe provident ullam pariatur delectus quis molestiae rem.&lt;/li&gt;
+&lt;li&gt;Nesciunt ratione, commodi unde perferendis deserunt, adipisci vero ducimus, quae vitae beatae qui sint. Nisi libero dolores ipsum fugit nostrum.&lt;/li&gt;
+&lt;li&gt;Velit maiores ipsum vero neque perspiciatis, amet, eum unde nam ullam hic harum illum magni quos sunt eaque nisi at!&lt;/li&gt;
+&lt;li&gt;Nemo, necessitatibus dignissimos. Enim necessitatibus harum ratione. Aliquid quo accusamus quisquam debitis facere dolore praesentium sequi eum? Placeat, quia dicta!&lt;/li&gt;
+&lt;li&gt;Odio ipsam placeat debitis, obcaecati aliquam nisi rerum atque ratione aperiam. Quae laboriosam vero itaque perferendis distinctio. Numquam, molestiae sapiente!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit sed facere quis assumenda temporibus dolorem id. Sapiente quae quidem ut doloribus nobis corrupti, modi exercitationem. A numquam voluptatem explicabo est distinctio. Sit, cumque.&lt;/p&gt;
+&lt;p&gt;Alias, ea! Eius maiores error amet. Dignissimos repudiandae fugit quisquam, quos rem hic deserunt ipsum earum nemo esse reprehenderit repellendus, nostrum aut vel odio ipsam iste eaque maxime ullam sunt ea eos at.&lt;/p&gt;
+&lt;p&gt;Quidem illo ullam assumenda blanditiis obcaecati odit nam. Voluptate expedita consectetur blanditiis! Vitae, ea in! Doloribus similique distinctio, ex sequi dolore sunt. Animi esse culpa eius earum enim molestias tenetur veniam tempore quas.&lt;/p&gt;</content_html>
+        <folder-name/>
+        <createdDate>2023-11-29T04:42:46.594Z</createdDate>
+        <lastModifiedDate>2023-11-29T04:42:46.594Z</lastModifiedDate>
+      </component>
+	</item></content_o>
+	<createdDate>2023-11-29T02:36:11.199Z</createdDate>
+	<createdDate_dt>2023-11-29T02:36:11.199Z</createdDate_dt>
+	<lastModifiedDate>2023-11-29T05:11:31.183Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-29T05:11:31.183Z</lastModifiedDate_dt>
+</page>

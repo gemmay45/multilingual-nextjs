@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/articlelandingpage</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e0d90f57</objectGroupId>
+	<objectId>e0d90f57-5f3e-4b8b-8abe-21f935565f4c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>es</folder-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<internal-name>articles</internal-name>
+	<navLabel>Articles</navLabel>
+	<title_s>Articles</title_s>
+	<content_html>&lt;div&gt;
+&lt;div&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident harum atque dolore modi distinctio maxime repellendus ex quod nihil, laboriosam hic voluptas mollitia sed non quae in ullam debitis ad?&lt;/div&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2023-11-30T04:39:30.261Z</createdDate>
+	<createdDate_dt>2023-11-30T04:39:30.261Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T04:39:30.261Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T04:39:30.261Z</lastModifiedDate_dt>
+</page>

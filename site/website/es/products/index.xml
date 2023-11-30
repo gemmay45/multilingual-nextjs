@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/genericpage</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8de8e990</objectGroupId>
+	<objectId>8de8e990-ac67-4cc1-aded-59cd84739b0f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>es</folder-name>
+	<internal-name>products en</internal-name>
+	<navLabel>Products</navLabel>
+	<metaTitle_s>Products meta title</metaTitle_s>
+	<title_s>Products Section Title</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<content_o item-list="true">	<item inline="true">	<key>c0199626-7890-ecd5-2bca-77143d35e4e6</key>
+	<value>product content</value>
+<component id="c0199626-7890-ecd5-2bca-77143d35e4e6">
+	<content-type>/component/rte</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c019</objectGroupId>
+	<objectId>c0199626-7890-ecd5-2bca-77143d35e4e6</objectId>
+	<file-name>c0199626-7890-ecd5-2bca-77143d35e4e6.xml</file-name>
+	<folder-name/>
+	<internal-name>product content</internal-name>
+	<content_html>&lt;p&gt;Product EN content&lt;/p&gt;</content_html>
+	<createdDate>2023-11-30T04:39:58.199Z</createdDate>
+	<createdDate_dt>2023-11-30T04:39:58.199Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T04:39:58.199Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T04:39:58.199Z</lastModifiedDate_dt>
+</component>
+	</item></content_o>
+	<metaDescription_t>Products meta description</metaDescription_t>
+	<createdDate>2023-11-30T02:34:49.932Z</createdDate>
+	<createdDate_dt>2023-11-30T02:34:49.932Z</createdDate_dt>
+	<lastModifiedDate>2023-11-30T02:34:49.932Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-30T02:34:49.932Z</lastModifiedDate_dt>
+</page>
